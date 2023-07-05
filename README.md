@@ -1,3 +1,5 @@
+* HI i'm George
+
 # 💫 About Me:
 - 🌱 I’m currently learning typescript, javascript, react, vue<br>
 - 🤔 I’m looking for help with job<br>

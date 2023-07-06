@@ -17,8 +17,8 @@
 ## Completed pet projects:
 
 * [Online-zoo](https://ge1o1ge.github.io/Online-zoo/)
+* [Shelter](https://rolling-scopes-school.github.io/ge1o1ge-JSFE2023Q1/shelter/)
 * [Wildlife](https://ge1o1ge.github.io/Wildlife_verst/)
-* [Shelter](https://ge1o1ge.github.io/Wildlife_verst/)
 * [Virtual keyboard](https://ge1o1ge.github.io/virtual-keyboard/virtual-keyboard/)
 * [Minesweeper](https://rolling-scopes-school.github.io/ge1o1ge-JSFE2023Q1/minesweeper/dist/)
 * [CSS selectors game](https://rolling-scopes-school.github.io/ge1o1ge-JSFE2023Q1/rs-selectors-game/)

@@ -16,6 +16,7 @@
 
 ## Completed pet projects:
 
+* [Desire](https://ge1o1ge.github.io/Desire/app/about.html)
 * [Online-zoo](https://ge1o1ge.github.io/Online-zoo/)
 * [Shelter](https://rolling-scopes-school.github.io/ge1o1ge-JSFE2023Q1/shelter/)
 * [Wildlife](https://ge1o1ge.github.io/Wildlife_verst/)

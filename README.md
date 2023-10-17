@@ -14,8 +14,8 @@
 <a href="https://www.leetcode.com/trajtv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="trajtv" height="20" width="30" /></a>
 <a href="https://www.codewars.com/users/rsschool_e7bc0e54c99f2b27" target="blank"><img align="center" src="https://www.codewars.com/users/rsschool_e7bc0e54c99f2b27/badges/micro" alt="trajtv" height="25"/></a>
 
-## Completed pet projects:
-
+## Completed pet projects: 
+* [Resume](https://ge1o1ge.github.io/Resume-react/)
 * [Desire](https://ge1o1ge.github.io/Desire/app/index.html)
 * [Online-zoo](https://ge1o1ge.github.io/Online-zoo/)
 * [Shelter](https://rolling-scopes-school.github.io/ge1o1ge-JSFE2023Q1/shelter/)
